@@ -1220,7 +1220,7 @@ int main(int argc, char *argv[])
                 case 8: //search event by keyword
                     searchKeyword(list, &index);
                     break;
-		//trying the git thing
+		//trying the git thing - 2nd time
  
         }
     }
