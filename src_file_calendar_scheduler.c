@@ -1,4 +1,5 @@
 //hello gitbash
+//i need to get this right
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>
